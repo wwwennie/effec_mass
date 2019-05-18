@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# common packages and constants that I tend to use all the time
+# common packages and constants 
 
 import numpy as np
 import pandas as pd

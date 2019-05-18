@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 -----------------------------------------------------------
- created: wwwennie
+ created: Wennie Wang, wwwennie
 
  helper module for calculating the effective band mass 
 
