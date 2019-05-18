@@ -10,9 +10,5 @@ We can account for non-parabolicity of the bands using a hyperbolic fit:
 
 where the degree of non-parabolicity <img src="/tex/11c596de17c342edeed29f489aa4b274.svg?invert_in_darkmode&sanitize=true" align=middle width=9.423880949999988pt height=14.15524440000002pt/> is a fitting parameter.
 
-Assumes columnar input data of the form:
-   $ k_x k_y k_z [\text{reciprocal}] k_x k_y k_z (2\pi\text{/scale}) \text{dist}(2\pi\text{/scale}) \text{(1/Ang)(1/Bohr)} \text{bnd_1} \text{bnd_2} ... $
- 
-
 Here is small Python implementation that tabulates and displays fits of different amounts of truncation of the data.
 It is recommended to sample the k-point path along the high-symmetry directions densely.
