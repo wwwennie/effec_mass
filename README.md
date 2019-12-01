@@ -12,3 +12,7 @@ where the degree of non-parabolicity <img src="/tex/11c596de17c342edeed29f489aa4
 
 Here is small Python implementation that tabulates and displays fits of different amounts of truncation of the data.
 It is recommended to sample the k-point path along the high-symmetry directions densely.
+
+Example output:
+
+![](./example/example-effec-band-mass.png)
